@@ -1,0 +1,425 @@
+.home-page,
+.home-page * {
+  box-sizing: border-box;
+}
+.home-page {
+  background: #bdddf1;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.travel {
+  border-radius: 50%;
+  width: 495px;
+  height: 540px;
+  position: absolute;
+  left: 858px;
+  top: 38px;
+  object-fit: cover;
+}
+.travelling {
+  color: #0c94c6;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  left: 140px;
+  top: 94px;
+  width: 204px;
+  height: 46px;
+}
+.product {
+  color: #1e2020;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 16px;
+  font-weight: 900;
+  position: absolute;
+  left: 452px;
+  top: 107px;
+  width: 65px;
+  height: 19px;
+}
+.frame-2 {
+  padding: 10px;
+  width: 85px;
+  height: 38px;
+  position: absolute;
+  left: 442px;
+  top: 98px;
+}
+.product2 {
+  color: #1e2020;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 16px;
+  font-weight: 900;
+  text-decoration: underline;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+.contact-us {
+  color: #1e2020;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 16px;
+  font-weight: 900;
+  position: absolute;
+  left: 581px;
+  top: 107px;
+  width: 93px;
+  height: 19px;
+}
+.contact-us-span {
+  color: #1e2020;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 16px;
+  font-weight: 900;
+  text-decoration: underline;
+}
+.contact-us-span2 {
+  color: #1e2020;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 16px;
+  font-weight: 900;
+}
+.about-us {
+  color: #1e2020;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 16px;
+  font-weight: 900;
+  text-decoration: underline;
+  position: absolute;
+  left: 730px;
+  top: 106px;
+  width: 77px;
+  height: 19px;
+}
+.oip-3-1 {
+  border-radius: 25px;
+  opacity: 0.75;
+  width: 219px;
+  height: 118px;
+  position: absolute;
+  left: 858px;
+  top: 460px;
+  object-fit: cover;
+}
+.getty-images-540272361-5-b-5956-c-546-e-0-fb-0078-e-17424-1 {
+  border-radius: 25px;
+  opacity: 0.75;
+  width: 202px;
+  height: 112px;
+  position: absolute;
+  left: 1238px;
+  top: 239px;
+  object-fit: cover;
+}
+.explore-the-world-your-way-welcome-to-travel-sav-your-ultimate-travel-companion {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 36px;
+  font-weight: 900;
+  position: absolute;
+  left: 48px;
+  top: 170px;
+  width: 558px;
+  height: 196px;
+}
+.logo {
+  width: 82px;
+  height: 69px;
+  position: absolute;
+  left: 0px;
+  top: 5px;
+  overflow: visible;
+}
+.whether-it-s-a-relaxing-getaway-or-an-adventurous-escape-we-make-travel-planning-simple-and-hassle-free-start-your-journey-today {
+  color: #1e2020;
+  text-align: left;
+  font-family: "IstokWeb-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 48px;
+  top: 320px;
+  width: 735px;
+  height: 93px;
+}
+.oip-5 {
+  width: 214px;
+  height: 72px;
+  position: absolute;
+  left: 360px;
+  top: 414px;
+  object-fit: cover;
+}
+.oip-52 {
+  width: 214px;
+  height: 72px;
+  position: absolute;
+  left: 82px;
+  top: 413px;
+  object-fit: cover;
+}
+.popular-destination {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 5px;
+  top: 522px;
+  width: 197px;
+  height: 23px;
+}
+._132-1 {
+  width: 5px;
+  height: 1px;
+  position: absolute;
+  left: 679px;
+  top: 609px;
+  object-fit: cover;
+}
+.frame-3 {
+  width: 790px;
+  height: 116px;
+  position: absolute;
+  left: 5px;
+  top: 554px;
+}
+.oip-6-1 {
+  border-radius: 25px;
+  width: 166px;
+  height: 119px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.oip-7-1 {
+  border-radius: 25px;
+  width: 170px;
+  height: 119px;
+  position: absolute;
+  left: 192px;
+  top: 0px;
+  object-fit: cover;
+}
+._98-1 {
+  border-radius: 25px;
+  width: 183px;
+  height: 119px;
+  position: absolute;
+  left: 388px;
+  top: 0px;
+  object-fit: cover;
+}
+._132-2 {
+  border-radius: 25px;
+  width: 178px;
+  height: 119px;
+  position: absolute;
+  left: 597px;
+  top: 0px;
+  object-fit: cover;
+}
+.oip-8 {
+  border-radius: 50%;
+  width: 278px;
+  height: 366px;
+  position: absolute;
+  left: 1072px;
+  top: 633px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  object-fit: cover;
+}
+.why-choose-us {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  position: absolute;
+  left: 1075px;
+  top: 655px;
+  width: 194px;
+  height: 29px;
+}
+.we-re-more-than-just-a-booking-platform-we-re-your-gateway-to-unforgettable-journeys-here-s-why-travelers-trust-us-to-make-their-dream-trips-a-reality {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 12px;
+  font-weight: 900;
+  position: absolute;
+  left: 1082px;
+  top: 696px;
+  width: 287px;
+  height: 49px;
+}
+.pngtree-flight-element-set-air-vector-png-image-34387008-1 {
+  width: 61px;
+  height: 58px;
+  position: absolute;
+  left: 1093px;
+  top: 758px;
+  object-fit: cover;
+}
+.book-tickets-in-just-a-few-clicks {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 12px;
+  font-weight: 900;
+  text-decoration: underline;
+  position: absolute;
+  left: 1181px;
+  top: 775px;
+  width: 193px;
+}
+.woman-booking-hotel-online-3862325-3213896-1 {
+  width: 94px;
+  height: 59px;
+  position: absolute;
+  left: 1082px;
+  top: 836px;
+  object-fit: cover;
+}
+.choose-from-a-wide-range-of-options-including-budget-friendly-hotels-luxury-resorts-cozy-homestays-and-unique-stays-like-treehouses-and-houseboats {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 11px;
+  font-weight: 900;
+  text-decoration: underline;
+  position: absolute;
+  left: 1186px;
+  top: 840px;
+  width: 226px;
+  height: 52px;
+}
+.frame-4 {
+  width: 776px;
+  height: 137px;
+  position: absolute;
+  left: 10px;
+  top: 692px;
+}
+.dubai-a-dazzling-oasis-where-modern-innovation-meets-timeless-tradition-known-as-the-city-of-gold-dubai-is-a-global-hub-of-luxury-adventure-and-cultural-diversity-offering-experiences-that-captivate-every-traveler {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 12px;
+  font-weight: 900;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 161px;
+  height: 140px;
+}
+.thailand-is-a-vibrant-blend-of-stunning-landscapes-rich-cultural-heritage-and-warm-hospitality-whether-you-re-drawn-to-serene-beaches-bustling-cities-or-tranquil-temples-this-southeast-asian-gem-offers-something-for-every-traveler {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 12px;
+  font-weight: 900;
+  position: absolute;
+  left: 200px;
+  top: 0px;
+  width: 161px;
+  height: 140px;
+}
+.paris-the-enchanting-capital-of-france-is-a-timeless-destination-where-romance-art-history-and-style-come-together-with-its-iconic-landmarks-charming-streets-and-world-class-cuisine-paris-offers-an-unforgettable-experience-for-every-traveler {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 12px;
+  font-weight: 900;
+  position: absolute;
+  left: 400px;
+  top: 0px;
+  width: 161px;
+  height: 140px;
+}
+.bali-often-referred-to-as-the-island-of-gods-is-a-tropical-paradise-known-for-its-stunning-beaches-lush-landscapes-and-rich-culture-whether-you-re-looking-for-relaxation-adventure-or-cultural-immersion-bali-offers-it-all {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 12px;
+  font-weight: 900;
+  position: absolute;
+  left: 600px;
+  top: 0px;
+  width: 161px;
+  height: 140px;
+}
+.desktop-wallpaper-travel-tours-and-travels-background-travel-and-tourism-1 {
+  width: 784px;
+  height: 183px;
+  position: absolute;
+  left: 10px;
+  top: 841px;
+  object-fit: cover;
+}
+.sign-up-png-royalty-free-4 {
+  width: 149px;
+  height: 55px;
+  position: absolute;
+  left: 1269px;
+  top: 12px;
+  object-fit: cover;
+}
+.login-png-royalty-free-1 {
+  width: 160px;
+  height: 50px;
+  position: absolute;
+  left: 1269px;
+  top: 67px;
+  object-fit: cover;
+}
+.text {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  text-decoration: underline;
+  position: absolute;
+  left: 1255px;
+  top: 0px;
+  width: 174px;
+  height: 59px;
+}
+.text2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  text-decoration: underline;
+  position: absolute;
+  left: 1265px;
+  top: 68px;
+  width: 164px;
+  height: 47px;
+}
+.text3 {
+  color: #000000;
+  text-align: left;
+  font-family: "AlfaSlabOne-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 2px;
+  top: 561px;
+  width: 172px;
+  height: 109px;
+}
